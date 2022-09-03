@@ -14,8 +14,8 @@ Document of all credits for Sonic.EXE
 https://docs.google.com/spreadsheets/d/1ACus7xqtyZ8jE9gt6YK5yW_iluyFqoNQ4FOffAme340/edit#gid=0
 
 YCE Credits:
-YoshiCrafter29 - Main Dev + Owner
-AbnormalPoof - Bug Fixer
-siivkoi - Drew the updater bg
-kiyuuusama - Drew the icons
-PolybiusProxy - MP4 Support
+* YoshiCrafter29 - Main Dev + Owner
+* AbnormalPoof - Bug Fixer
+* siivkoi - Drew the updater bg
+* kiyuuusama - Drew the icons
+* PolybiusProxy - MP4 Support
