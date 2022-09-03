@@ -1,0 +1,33 @@
+{
+	"skinnableGFs": [],
+	"locked": false,
+	"BFskins": [],
+	"name": "Sonic.EXE Restore Port",
+	"keyNumbers": [
+		4
+	],
+	"description": "its a sanic",
+	"intro": {
+		"newgrounds": "newgrounds",
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"present": "present",
+		"bpm": 102
+	},
+	"skinnableBFs": [],
+	"titleBarName": "Friday Night Funkin': Vs Sonic.exe",
+	"GFskins": []
+}
