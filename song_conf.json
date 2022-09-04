@@ -1,3 +1,1 @@
-{
-	"songs": []
-}
+{"songs":[{"scripts":["stages/sonicStage","Sonic.EXE-Restore-YCE-Port:/scripts/camera-movement"],"difficulties":null,"end_cutscene":null,"cutscene":null,"name":"too-slow"},{"scripts":["Sonic.EXE-Restore-YCE-Port:/stages/cant-run-xd"],"difficulties":null,"end_cutscene":null,"cutscene":null,"name":"you-cant-run"}]}

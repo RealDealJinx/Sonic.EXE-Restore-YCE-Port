@@ -1,0 +1,59 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": 270,
+		"y": 390
+	},
+	"globalOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"healthbarColor": "#F7FDFD",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"x": -432,
+			"y": -338,
+			"anim": "Pixel gf dance",
+			"loop": false,
+			"name": "danceLeft",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"x": -436,
+			"y": -338,
+			"anim": "Pixel gf dance",
+			"loop": false,
+			"name": "danceRight",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"danceLeft",
+		"danceRight"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

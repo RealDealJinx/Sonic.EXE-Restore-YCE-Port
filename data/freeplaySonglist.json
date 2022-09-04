@@ -1,1 +1,28 @@
-{"songs":[]}
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Too Slow",
+			"char": "bf",
+			"bpm": 135,
+			"name": "too-slow",
+			"color": "#5239FE"
+		},
+		{
+			"bpm": 140,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "You Cant Run",
+			"char": "bf",
+			"name": "you-cant-run",
+			"color": "#FFFFFF"
+		}
+	]
+}

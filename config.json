@@ -1,12 +1,14 @@
 {
 	"skinnableGFs": [],
-	"locked": false,
+	"discordRpc": "1016003883413291109",
 	"BFskins": [],
+	"downloadLink": null,
+	"locked": false,
 	"name": "Sonic.EXE Restore Port",
 	"keyNumbers": [
 		4
 	],
-	"description": "its a sanic",
+	"skinnableBFs": [],
 	"intro": {
 		"newgrounds": "newgrounds",
 		"authors": [
@@ -27,7 +29,8 @@
 		"present": "present",
 		"bpm": 102
 	},
-	"skinnableBFs": [],
+	"description": "its a sanic",
 	"titleBarName": "Friday Night Funkin': Vs Sonic.exe",
-	"GFskins": []
+	"GFskins": [],
+	"downloadLinkAlt": null
 }
